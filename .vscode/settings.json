@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "header.h": "c",
+        "messagequeus.h": "c",
+        "semaphore.h": "c",
+        "stdio.h": "c",
+        "sharedmemory.h": "c",
+        "variables.h": "c",
+        "functions.h": "c",
+        "constants.h": "c",
+        "decoders.h": "c",
+        "ctype.h": "c",
+        "math.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
